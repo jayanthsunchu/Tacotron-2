@@ -66,6 +66,7 @@ def main():
 	accepted_models = ['Tacotron', 'WaveNet', 'Tacotron-2']
 
 	if args.model not in accepted_models:
+		print(args.model)
 		raise ValueError('please enter a valid model to synthesize with: {}'.format(accepted_models))
 
 	if args.mode not in accepted_modes:

@@ -1,0 +1,9 @@
+lo nA peru bAbji|tacotron_output/eval\mel-batch_0_sentence_0.npy|<no_g>
+I roju naDustunna sinimAlu ivi|tacotron_output/eval\mel-batch_1_sentence_0.npy|<no_g>
+I roju vAtAvaraNaM ilA uMdi|tacotron_output/eval\mel-batch_2_sentence_0.npy|<no_g>
+I roju kaniSTa uSNograta gariSTa uSNograta|tacotron_output/eval\mel-batch_3_sentence_0.npy|<no_g>
+muppai Aru DigrIla saMTigreDu|tacotron_output/eval\mel-batch_4_sentence_0.npy|<no_g>
+I roju mukhyAMzAlu ilA unnAyi|tacotron_output/eval\mel-batch_5_sentence_0.npy|<no_g>
+doma kuDite raktaM potuMdi prema puDite prANaM potuMdi|tacotron_output/eval\mel-batch_6_sentence_0.npy|<no_g>
+namaskAraM nA peru bAbji|tacotron_output/eval\mel-batch_7_sentence_0.npy|<no_g>
+IvAga ADitiro sinimAgaLu yenu|tacotron_output/eval\mel-batch_8_sentence_0.npy|<no_g>

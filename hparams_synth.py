@@ -113,7 +113,7 @@ hparams = tf.contrib.training.HParams(
 	#Griffin Lim
 	power = 1.5, #Only used in G&L inversion, usually values between 1.2 and 1.5 are a good choice.
 	griffin_lim_iters = 60, #Number of G&L iterations, typically 30 is enough but we use 60 to ensure convergence.
-	GL_on_GPU = True, #Whether to use G&L GPU version as part of tensorflow graph. (Usually much faster than CPU but slightly worse quality too).
+	GL_on_GPU = False, #Whether to use G&L GPU version as part of tensorflow graph. (Usually much faster than CPU but slightly worse quality too).
 	###########################################################################################################################################
 
 	#Tacotron
